@@ -1,0 +1,10 @@
+# MySQL data and local configuration
+.env
+*.log
+data/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
